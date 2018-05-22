@@ -3,7 +3,7 @@ DevTrio's own official lineup of high quality, story driven text based games.
 Programmed using [Java 8](https://java.com) and [Python 3](https://www.python.org).
 Our current games:
 Python Aventure:
-
+```
  ________  ___    ___ _________  ___  ___  ________  ________                                      
 |\   __  \|\  \  /  /|\___   ___\\  \|\  \|\   __  \|\   ___  \                                    
 \ \  \|\  \ \  \/  / ||___ \  \_\ \  \\\  \ \  \|\  \ \  \\ \  \                                   
@@ -22,4 +22,5 @@ Python Aventure:
    \ \__\ \__\ \_______\ \__/ /     \ \_______\ \__\\ \__\   \ \__\ \ \_______\ \__\\ _\\ \_______\
     \|__|\|__|\|_______|\|__|/       \|_______|\|__| \|__|    \|__|  \|_______|\|__|\|__|\|_______|
                                                                                                    
+ ```
  A text based adventure game written for [Python 3](https://www.python.org).
