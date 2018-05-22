@@ -18,4 +18,4 @@
     \|__|\|__|\|_______|\|__|/       \|_______|\|__| \|__|    \|__|  \|_______|\|__|\|__|\|_______|
                                                                                                    
  ```
- 
+  A text based adventure game written for [Python 3](https://www.python.org). Not much yet, but it will soon see a storyline and charachers, setting, plot, etc.
