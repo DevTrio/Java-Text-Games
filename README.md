@@ -1,5 +1,5 @@
 # Text Games
-Tetraforce's own official lineup of ~~high quality~~ indev story driven text based games.
+DevTrio's own official lineup of ~~high quality~~ indev story driven text based games.
 Programmed using [Java 8](https://java.com) and [Python 3](https://www.python.org).  
 Our current games:  
 Python Aventure:
@@ -23,4 +23,4 @@ Python Aventure:
     \|__|\|__|\|_______|\|__|/       \|_______|\|__| \|__|    \|__|  \|_______|\|__|\|__|\|_______|
                                                                                                    
  ```
- A text based adventure game written for [Python 3](https://www.python.org).
+ A text based adventure game written for [Python 3](https://www.python.org). Not much yet, but it will soon see a storyline and charachers, setting, plot, etc.
