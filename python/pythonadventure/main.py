@@ -1,5 +1,5 @@
 # An adventure game for Python 3.6.1 and above.
-
+#
 #  ________  ___    ___ _________  ___  ___  ________  ________      
 # |\   __  \|\  \  /  /|\___   ___\\  \|\  \|\   __  \|\   ___  \    
 # \ \  \|\  \ \  \/  / ||___ \  \_\ \  \\\  \ \  \|\  \ \  \\ \  \   
@@ -21,10 +21,14 @@
 # now comes the actual code...
 # string arrays
 strings1 = ["You wake up in a dark and mysterious cave.", "What do you want to do?", "You get up.", "You can't see anything.", "You run into a wall. It feels hard and cold...", "You start to head back when suddenly, you see a fire start.", "You can now see everything in the room."]
+strings2 = ["You see a switch on the wall. Next to it is the outline of a door.", "The door opens.", "You are temporarily blinded by the sun as the door opens.", "You are standing outside a grassy field, and the door closes behind you.", "There is a statue of a bird nearby."]
 replies1 = ["Get up", "Look around", "Walk forward"]
+replies2 = ["Walk to switch", "Activate switch", "Head outside", "Look around", "Go to the bird statue"]
+directions = ["Head north", "Head south", "Head east", "Head west"]
+birdStatue = ["Save", "Map", "Warp", "Save and Quit"]
 query = ["What do you want to do?", "What do you want to do now?"]
 invalid = ["Please enter a valid response."]
-control = True # change this to true after each loop
+control = True #change this to true after each loop
 print(strings1[0])
 print(strings1[1])
 print(replies1[0])
@@ -52,5 +56,4 @@ while control:
     else:
         print(invalid[0])
         control = True
-print(strings1[6]) # use strings2[] now
-strings2 = ["", ""] # it feels like a terrible idea to put variable definitions in the middle of the code...
+print(strings1[6]) # use set 2 now
