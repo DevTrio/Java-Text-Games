@@ -24,7 +24,7 @@ strings1 = ["You wake up in a dark and mysterious cave.", "What do you want to d
 replies1 = ["Get up", "Look around", "Walk forward"]
 query = ["What do you want to do?", "What do you want to do now?"]
 invalid = ["Please enter a valid response."]
-control = True #change this to true after each loop
+control = True # change this to true after each loop
 print(strings1[0])
 print(strings1[1])
 print(replies1[0])
