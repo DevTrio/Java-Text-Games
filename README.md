@@ -1,6 +1,6 @@
 # Text Games
 Tetraforce's own official lineup of ~~high quality~~ indev story driven text based games.
-Programmed using [Java 8](https://java.com) and [Python 3](https://www.python.org).  
+Programmed using [Java 9](https://www.oracle.com/java/java9.html) and [Python 3](https://www.python.org).  
 Our current games:  
 Python Aventure:
 ```
