@@ -23,4 +23,4 @@ Python Aventure:
     \|__|\|__|\|_______|\|__|/       \|_______|\|__| \|__|    \|__|  \|_______|\|__|\|__|\|_______|
                                                                                                    
  ```
- A text based adventure game written for [Python 3](https://www.python.org). Not much yet, but it will soon see a storyline and charachers, setting, plot, etc.
+ A text based adventure game written for [Python 3](https://www.python.org), with a port to Java. Not much yet, but it will soon see a storyline and charachers, setting, plot, etc.
