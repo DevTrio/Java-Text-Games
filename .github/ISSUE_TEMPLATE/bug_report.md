@@ -27,7 +27,7 @@ If applicable, add screenshots to help explain your problem.
 
 **Smartphone (please complete the following information):**
  - Device: [e.g. Samsung Galaxy S8+]
- - OS: [e.g. Android 7.0.0]
+ - OS: [e.g. Android 8.0.0]
  - Browser [e.g. firefox]
  - Version [e.g. nightly-62.0a1]
 
