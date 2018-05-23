@@ -70,7 +70,7 @@ print(strings2[1])
 while control:
     print(replies2[1], sep="\t")
     reply = input(query[0]).lower
-    if reply == "walk to switch":
+    if reply == "activate switch":
         print(strings2[2])
         control = False
     else:

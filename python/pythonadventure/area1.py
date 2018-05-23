@@ -22,3 +22,4 @@
 #strings:
 directions = ["Head north", "Head south", "Head east", "Head west"]
 birdStatue = ["Save", "Map", "Warp", "Save and Quit"]
+print("you stand in a large field...")
