@@ -1,4 +1,3 @@
-# Pull Request Template
 ### NAME OF PULL REQUEST
 What this pull request does:
 - some things
