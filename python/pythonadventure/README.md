@@ -19,3 +19,5 @@
                                                                                                    
  ```
   A text based adventure game written for [Python 3](https://www.python.org). Not much yet, but it will soon see a storyline and charachers, setting, plot, etc.
+
+art generated from http://patorjk.com/software/taag/#p=display&f=3D-ASCII&t=Python%0AAdventure
