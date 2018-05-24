@@ -12,7 +12,7 @@ You are also allowed to comment on pull requests, and you can suggest for how to
 - Create pull requests that clean up code (unless we ask for help)
 - Spam inappropriate or irresponsible comments or pull requests
 - Change the base code
-- Implement easter eggs (or anything similar) without permission from one of the devs
+- Implement easter eggs (or anything similar) without permission from one of the devs. If you would like permission, email the devs at [dev@tetraforce.cf](mailto:dev@tetraforce.cf). Give all relevant information about the easter egg to them.
 ----
 ### When contributing, consider the following:
 - Is it necessary?
@@ -24,4 +24,4 @@ You are also allowed to comment on pull requests, and you can suggest for how to
 - Would you like it if someone said that on your pull request?  
 ----
 Thank you,  
-The Tetraforce dev team
+Tetraforce
