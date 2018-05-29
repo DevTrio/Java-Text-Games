@@ -58,7 +58,7 @@ while control:
 control = True
 while control:
     print(replies2[0], sep="\t")
-    reply = input(query[0]).lower
+    reply = input(query[0]).lower()
     if reply == "walk to switch":
         print(strings2[1])
         control = False
@@ -69,7 +69,7 @@ control = True
 print(strings2[1])
 while control:
     print(replies2[1], sep="\t")
-    reply = input(query[0]).lower
+    reply = input(query[0]).lower()
     if reply == "activate switch":
         print(strings2[2])
         control = False
@@ -79,7 +79,7 @@ while control:
 control = True
 while control:
     print(replies2[2], sep="\t")
-    reply = input(query[0]).lower
+    reply = input(query[0]).lower()
     if reply == "head outside":
         print(strings2[3])
         control = False
@@ -89,7 +89,7 @@ while control:
 control = True
 while control:
     print(replies2[3], sep="\t")
-    reply = input(query[0]).lower
+    reply = input(query[0]).lower()
     if reply == "look around":
         print(strings2[4])
         control = False
