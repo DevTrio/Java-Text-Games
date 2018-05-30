@@ -28,10 +28,16 @@ query = ["What do you want to do? ", "What do you want to do now? "]
 invalid = ["Please enter a valid response."]
 control = True #change this to true after each loop
 print(strings1[0])
-print(strings1[1])
-print(replies1[0])
-reply = input().lower()
-print(strings1[2])
+while control:
+    print(replies1[0])
+    reply = input(strings1[1]).lower()
+    if reply == "get up":
+        print(strings1[2])
+        control=False
+    else:
+        print(invalid[0])
+        control = True
+control = True
 while control:
     print(replies1[1], replies1[2], sep="\t")
     reply = input(query[0]).lower()
