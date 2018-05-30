@@ -22,4 +22,8 @@
 #strings:
 directions = ["Head north", "Head south", "Head east", "Head west"]
 birdStatue = ["Save", "Map", "Warp", "Save and Quit"]
+currSave = open("currentSave.txt", "r")
+saveLocStr = 
+location = open("./data/" + currSave.readline() + "/location.txt", "w+")
+location.write("mainField")
 print("you stand in a large field...")
