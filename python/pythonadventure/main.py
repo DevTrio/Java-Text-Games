@@ -5,13 +5,13 @@ currSave = open("./currentSave.txt", "w")
 print("loading...\n\n")
 if file == "1":
     save = open("./data/save1/location.txt", "r")
-    currSave.write("1")
+    currSave.write("save1")
 elif file == "2":
     save = open("./data/save2/location.txt", "r")
-    currSave.write("2")
+    currSave.write("save2")
 elif file == "3":
     save = open("./data/save3/location.txt", "r")
-    currSave.write("3")
+    currSave.write("save3")
 loc = save.readline()
 if loc == "intro":
     exec(open("./intro.py").read())
