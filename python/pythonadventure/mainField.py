@@ -21,7 +21,6 @@
 
 #strings:
 directions = ["Head north", "Head south", "Head east", "Head west"]
-currSave = open("currentSave.txt", "r")
-location = open("./data/" + currSave.readline() + "/location.txt", "w+")
+location = open("./currentLocation.txt", "w+")
 location.write("mainField")
 print("you stand in a large field...")
