@@ -21,7 +21,6 @@
 
 #strings:
 directions = ["Head north", "Head south", "Head east", "Head west"]
-birdStatue = ["Save", "Map", "Warp", "Save and Quit"]
 currSave = open("currentSave.txt", "r")
 location = open("./data/" + currSave.readline() + "/location.txt", "w+")
 location.write("mainField")
