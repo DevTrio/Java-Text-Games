@@ -1,1 +1,11 @@
-
+print(the question)
+while control:
+    print(the possible responses)
+    reply = input(What to do?).lower()
+    if reply == "the answer (in lowercase)":
+        print(response to what's been done)
+        control=False # valid reply
+    else:
+        print(invalid[0]) # invalid response
+        control = True
+control = True
