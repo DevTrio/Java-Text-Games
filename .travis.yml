@@ -2,5 +2,4 @@ language: python
 python:
  - 3.6
 script:
- - sudo apt-get install sl -qq -y
- - sl
+ - /usr/games/sl
