@@ -1,5 +1,5 @@
 # Text Games
-Tetracore's own official lineup of ~~high quality~~ indev story driven text based games.
+~~Tetracore's~~ SGS's own official lineup of ~~high quality~~ indev story driven text based games.
 Programmed using [Java 9](https://www.oracle.com/java/java9.html) and [Python 3](https://www.python.org).  
 Our current games:  
 Python Aventure:
